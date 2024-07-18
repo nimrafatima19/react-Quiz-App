@@ -42,7 +42,7 @@ export default [
             'stringify()',
             'parse()',
             'convert()',
-        ]q
+        ]
     }
 ];
 
